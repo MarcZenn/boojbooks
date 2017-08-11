@@ -1,0 +1,43 @@
+html {
+  overflow-x: hidden;
+}
+body {
+  overflow-x: hidden;
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+.dragdrop {
+  &:hover {
+    cursor: move;
+  }
+}
+
+.ui-state-hover {
+  background:lightgrey;
+}
+
+.ui-state-active {
+  background:lightgrey;
+}
+
+.text-muted {
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
+}
+
+div.container {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}

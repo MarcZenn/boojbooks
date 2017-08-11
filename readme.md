@@ -1,14 +1,9 @@
-# Lolita's Market & Deli Website
+# Booj Books
 *Beware of the person of one book. -- Thomas Aquinas*
 
-## Business Information and hours:
 
-Address: 800 Pearl St.
-         Boulder CO.
-         80302
+Live [Demo](http://agile-mountain-12616.herokuapp.com/).
 
-
-Please visit our website [here](http://agile-mountain-12616.herokuapp.com/)!
 
 
 # Built Using the Laravel PHP Framework:

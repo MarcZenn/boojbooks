@@ -2,7 +2,7 @@
 *Beware of the person of one book. -- Thomas Aquinas*
 
 
-Live [Demo](http://agile-mountain-12616.herokuapp.com/).
+Live [Demo](http://immense-savannah-86304.herokuapp.com/).
 
 
 # Built Using the Laravel PHP Framework:
